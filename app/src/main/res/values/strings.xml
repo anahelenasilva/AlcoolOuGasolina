@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Álcool Ou Gasolina?</string>
+    <string name="preco_alcool">Preço do Álcool</string>
+    <string name="preco_gasolina">Preço da Gasolina</string>
+    <string name="btn_verificar">Verificar</string>
+    <string name="resultado_alcool">É melhor utilizar Álcool!</string>
+    <string name="resultado_gasolina">É melhor utilizar Gasolina!</string>
+</resources>
